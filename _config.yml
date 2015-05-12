@@ -1,1 +1,4 @@
 baseurl: /EthanBlog
+pygments: true
+safe: true
+auto: true
